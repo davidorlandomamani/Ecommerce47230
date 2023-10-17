@@ -20,7 +20,16 @@ export const products = [
     {
         categoriaId: "accesorios",
         id: 3,
-        title: "titulo2",
+        title: "accesorios1",
+        description: "descriptcion2",
+        price: 1,
+        stock: 2,
+        pictureUrl: "https://cdn.openphoto.net/volumes/sizes/computerhotline/7783/2.jpg"
+    },
+    {
+        categoriaId: "accesorios",
+        id: 4,
+        title: "accesorios2",
         description: "descriptcion2",
         price: 1,
         stock: 2,

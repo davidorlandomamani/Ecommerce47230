@@ -23,7 +23,6 @@ export const ItemDetail = ({ id, categoriaId, title, description, pictureUrl, st
             </div>
         </>
     )
-
 }
 
 
