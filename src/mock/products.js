@@ -5,7 +5,7 @@ export const products = [
         title: "titulo1",
         description: "descriptcion1",
         price: 1,
-        stock: 2,
+        stock: 20,
         pictureUrl: "https://www.w3schools.com/howto/img_avatar2.png"
     },
     {
